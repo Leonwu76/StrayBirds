@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: leonwu76
+username: Leonwu76
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
